@@ -1,0 +1,49 @@
+# Memory dumps and disk images
+*.raw
+*.vmem
+*.dmp
+*.E01
+*.img
+*.dd
+
+# Archives (source files are linked in writeups)
+*.7z
+*.zip
+*.rar
+
+# Network captures (source files are linked in writeups)
+*.pcap
+*.pcapng
+
+# Bulk forensic extraction output
+binwalk_out/
+foremost_out/
+*_memdump/
+vol3_winrar_files/
+winrar_files/
+rar_carve/
+rar_dumpfiles/
+chrome_history/
+firefox_places/
+
+# Extracted executables and system files
+*.exe
+*.dll
+*.dat
+*.vacb
+*.lnk
+*.deb
+
+# Large text dumps
+mft_body.txt
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# VPN configs
+*.ovpn
+
+# Misc
+.claude/
+?
