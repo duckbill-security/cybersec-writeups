@@ -17,6 +17,7 @@ DFIR challenge writeups and forensic analysis reports.
 
 | Exercise | Date | Report |
 |----------|------|--------|
+| [NATUREFORCE](malware-traffic-analysis/2026-10-01-NATUREFORCE/report.md) | 2026-10-01 | CNCmachineRMS RAT via curl dropper |
 | [The Lucky Turkey](malware-traffic-analysis/2026-11-10-The-Lucky-Turkey/report.md) | 2026-11-10 | Traffic analysis |
 
 ## Structure
